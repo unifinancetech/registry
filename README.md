@@ -1,3 +1,3 @@
 # registry
 
-unifinancetech registry
+unifinancetech registry.
