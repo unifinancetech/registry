@@ -1,3 +1,3 @@
 # registry
 
-flamincome registry
+unifinancetech registry
